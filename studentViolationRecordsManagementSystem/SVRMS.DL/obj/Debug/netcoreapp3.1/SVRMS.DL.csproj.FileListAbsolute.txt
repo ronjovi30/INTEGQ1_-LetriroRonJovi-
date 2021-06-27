@@ -1,0 +1,9 @@
+C:\Users\Ron Jovi\Documents\Programming\studentViolationRecordsManagementSystem\SVRMS.DL\bin\Debug\netcoreapp3.1\SVRMS.DL.deps.json
+C:\Users\Ron Jovi\Documents\Programming\studentViolationRecordsManagementSystem\SVRMS.DL\bin\Debug\netcoreapp3.1\SVRMS.DL.dll
+C:\Users\Ron Jovi\Documents\Programming\studentViolationRecordsManagementSystem\SVRMS.DL\bin\Debug\netcoreapp3.1\SVRMS.DL.pdb
+C:\Users\Ron Jovi\Documents\Programming\studentViolationRecordsManagementSystem\SVRMS.DL\obj\Debug\netcoreapp3.1\SVRMS.DL.csproj.AssemblyReference.cache
+C:\Users\Ron Jovi\Documents\Programming\studentViolationRecordsManagementSystem\SVRMS.DL\obj\Debug\netcoreapp3.1\SVRMS.DL.AssemblyInfoInputs.cache
+C:\Users\Ron Jovi\Documents\Programming\studentViolationRecordsManagementSystem\SVRMS.DL\obj\Debug\netcoreapp3.1\SVRMS.DL.AssemblyInfo.cs
+C:\Users\Ron Jovi\Documents\Programming\studentViolationRecordsManagementSystem\SVRMS.DL\obj\Debug\netcoreapp3.1\SVRMS.DL.csproj.CoreCompileInputs.cache
+C:\Users\Ron Jovi\Documents\Programming\studentViolationRecordsManagementSystem\SVRMS.DL\obj\Debug\netcoreapp3.1\SVRMS.DL.dll
+C:\Users\Ron Jovi\Documents\Programming\studentViolationRecordsManagementSystem\SVRMS.DL\obj\Debug\netcoreapp3.1\SVRMS.DL.pdb

@@ -1,0 +1,47 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "SVRMS.UI/1.0.0": {
+        "dependencies": {
+          "SVRMS.BL": "1.0.0",
+          "SVRMS.DL": "1.0.0"
+        },
+        "runtime": {
+          "SVRMS.UI.dll": {}
+        }
+      },
+      "SVRMS.BL/1.0.0": {
+        "runtime": {
+          "SVRMS.BL.dll": {}
+        }
+      },
+      "SVRMS.DL/1.0.0": {
+        "runtime": {
+          "SVRMS.DL.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SVRMS.UI/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SVRMS.BL/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SVRMS.DL/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
